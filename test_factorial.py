@@ -7,7 +7,7 @@ class TestFactorial(unittest.TestCase):
     """Test cases for the factorial function."""
 
     def test_zero(self):
-        """Test factorial of 0 returns 1."""
+        """Test factorial of 0 returns 1.""""aarya"
         self.assertEqual(factorial(0), 1)
 
     def test_positive(self):
