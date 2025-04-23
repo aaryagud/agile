@@ -4,7 +4,7 @@ import unittest
 from factorial import factorial
 
 class TestFactorial(unittest.TestCase):
-    """Test cases for the factorial function."""'AARYA"
+    """Test cases for the factorial function.""""AARYA"
 
     def test_zero(self):
         """Test factorial of 0 returns 1."""
